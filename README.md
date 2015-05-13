@@ -1,2 +1,2 @@
 # PatchUpdate
-android客户端增量升级
+Android incremental upgrade
